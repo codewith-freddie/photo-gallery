@@ -71,10 +71,12 @@ README.md            # Project documentation
 
 Freddie G. Alicante
 
+-*blending creativity with code.*
+
 ---
 
 ## 📄 License
 
 This project is for educational purposes. Feel free to use and modify as needed.
 
--*blending creativity with code.*
+
