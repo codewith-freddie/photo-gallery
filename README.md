@@ -6,7 +6,7 @@ Welcome to the **Photo Gallery** project — a beautifully crafted, responsive w
 
 ## 🌟 Description
 
-Created by Freddie Alicante during his college days at DEBESMSCAT, this project captures moments frozen in time. Now a graduate, Freddie shares this collection as a testament to creativity and passion for photography.
+Created by Freddie Alicante during his college days, this project captures moments frozen in time. Now a graduate, Freddie shares this collection as a testament to creativity and passion for photography.
 
 ---
 
@@ -46,12 +46,15 @@ python -m http.server 8000
 ## 📁 File Structure
 
 ```
-index.html       # Main HTML file
-style.css        # Stylesheet
-img/             # Image assets
-  ├─ 1.jpg - 16.jpg      # Food images
-  ├─ pl1.jpg - pl20.jpg  # Place images
-  └─ prof1.jpg - prof5.jpg # Profile images
+index.html           # Main HTML file
+css/
+  └─ style.css       # Stylesheet
+img/
+  ├─ food/           # Food images (1.jpg to 16.jpg)
+  ├─ places/         # Place images (pl1.jpg to pl20.jpg)
+  └─ profiles/       # Profile images (prof1.jpg, pic1.jpg to pic4.jpg)
+js/                  # JavaScript files (if any)
+README.md            # Project documentation
 ```
 
 ---
@@ -59,8 +62,8 @@ img/             # Image assets
 ## 📬 Contact
 
 - Email: [freddiealicante1a@gmail.com](mailto:freddiealicante1a@gmail.com)
-- Phone: +63-9704695292
-- Institution: DEBESMSCAT
+- Phone: +63-9202867038
+- LinkedIn: [https://www.linkedin.com/in/codewith-freddie/](https://www.linkedin.com/in/codewith-freddie/)
 
 ---
 
